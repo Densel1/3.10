@@ -1,0 +1,17 @@
+# ninja log v5
+62	1170	7044507687255643	CMakeFiles/figures.dir/StrengthTriangle.cpp.obj	a36a61b5c5c0cd6a
+29	1183	7044507687235655	CMakeFiles/figures.dir/figure.cpp.obj	8ac138b8e45ff34c
+17	1184	7044507687295613	CMakeFiles/figures.dir/EqualSideTriangle.cpp.obj	12506fc119ae1285
+69	1188	7044507687415536	CMakeFiles/figures.dir/triangle.cpp.obj	401f26147a7217c3
+56	1190	7044507687265631	CMakeFiles/figures.dir/square.cpp.obj	e9ec556dbe8ea951
+42	1192	7044507687185681	CMakeFiles/figures.dir/Rectangle.cpp.obj	c9630a07b636936a
+23	1196	7044507687505487	CMakeFiles/figures.dir/ErrorHandler.cpp.obj	5f03aca404c00b0b
+75	1197	7044507687515476	CMakeFiles/figures.dir/TwoEqualTriangle.cpp.obj	4b68f289097514d2
+4	1198	7044507687515476	CMakeFiles/figures.dir/2.cpp.obj	8b886d9495abe1c6
+49	1199	7044507687535461	CMakeFiles/figures.dir/romb.cpp.obj	a964a241554b4532
+11	1200	7044507687515476	CMakeFiles/figures.dir/EqualSideRectangle.cpp.obj	650a2fdb67207cea
+36	1206	7044507687635400	CMakeFiles/figures.dir/Parallelogramm.cpp.obj	527b7e1465e43069
+1206	1576	7044507691093292	figures.exe	cf073416b2966ed0
+23	828	7044508658692303	CMakeFiles/figures.dir/triangle.cpp.obj	401f26147a7217c3
+16	888	7044508659232065	CMakeFiles/figures.dir/square.cpp.obj	e9ec556dbe8ea951
+889	1147	7044508661292782	figures.exe	cf073416b2966ed0

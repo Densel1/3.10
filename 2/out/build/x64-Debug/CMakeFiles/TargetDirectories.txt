@@ -1,0 +1,3 @@
+C:/Users/znmv3/Desktop/g/3.10/2/out/build/x64-Debug/CMakeFiles/figures.dir
+C:/Users/znmv3/Desktop/g/3.10/2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/znmv3/Desktop/g/3.10/2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
